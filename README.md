@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Dashboard - Power BI
+# Amazon Sales Dashboard - Power BI
 
 ## Overview
 Interactive 4-page Power BI dashboard analyzing 100,000+ 
