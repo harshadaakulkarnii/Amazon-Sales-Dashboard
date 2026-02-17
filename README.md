@@ -19,7 +19,7 @@ Amazon transactions across 5 years (2020-2024)
 
 ## Technical Skills Demonstrated
 - Power BI Desktop
-- DAX Measures (13+ calculations)
+- DAX Measures 
 - Time Intelligence (YTD, MTD)
 - Power Query transformations
 - Data Modeling & Relationships
